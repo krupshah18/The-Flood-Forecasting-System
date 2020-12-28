@@ -1,7 +1,8 @@
 # The-Flood-Forecasting-System
 
 # Contributors
-Kruti Kunverji 
+Kruti Kunverji
+
 Krupa Shah 
 
 # Introduction 
@@ -10,12 +11,16 @@ One of the reasons for floods as assessed by the government is high intensity ra
 # Objective
 • To predict the occurrence of floods based on comparison of real-time data and the
 historical data.
+
 • To develop and design a flood detection system based on Machine Learning algorithms
 and techniques.
+
 • To send alerts of an incoming flood to the citizens of that particular area to help save
 their lives.
+
 • To help save the government money on relocation and rescue operations in the
 aftermath of a devastating flood.
+
 • To reduce the errors in predictions of existing flood detection systems.
 
 
