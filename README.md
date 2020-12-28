@@ -1,7 +1,8 @@
 # The-Flood-Forecasting-System
 
-# Contributors - 
-Kruti Kunverji
+# Contributors
+Kruti Kunverji /n
+
 Krupa Shah 
 
 # Introduction 
